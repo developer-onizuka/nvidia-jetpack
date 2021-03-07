@@ -15,7 +15,8 @@ Description: NVIDIA Jetpack Meta Package
 N: There is 1 additional record. Please use the '-a' switch to see it
 ```
 
-```nano:~$ sudo apt show nvidia-jetpack -a
+```
+nano:~$ sudo apt show nvidia-jetpack -a
 Package: nvidia-jetpack
 Version: 4.5.1-b17
 Priority: standard
